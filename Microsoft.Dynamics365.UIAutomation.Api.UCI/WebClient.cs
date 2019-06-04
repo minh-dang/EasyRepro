@@ -2844,8 +2844,6 @@ namespace Microsoft.Dynamics365.UIAutomation.Api.UCI
                 driver.WaitForTransaction();
                 return true;
             });
-
-            return true;
         }
 
         internal BrowserCommandResult<bool> SelectLookupNewButton()
