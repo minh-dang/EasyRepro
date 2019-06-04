@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAutomation.Api.UCI", "Microsoft.Dynamics365.UIAutomation.Api.UCI\Microsoft.Dynamics365.UIAutomation.Api.UCI.csproj", "{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics365.UIAutomation.MinhTest", "Microsoft.Dynamics365.UIAutomation.MinhTest\Microsoft.Dynamics365.UIAutomation.MinhTest.csproj", "{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,12 @@ Global
 		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.UnitTest|Any CPU.ActiveCfg = Release|Any CPU
 		{AFCB5BB5-4512-4019-A911-5D56CFF4F3D0}.UnitTest|Any CPU.Build.0 = Release|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.UnitTest|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC33ECA-C947-47EC-A5A9-F47CBD53C2E5}.UnitTest|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
